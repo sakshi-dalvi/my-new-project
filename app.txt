@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to git
+=======
+welcome to github
+>>>>>>> feature
