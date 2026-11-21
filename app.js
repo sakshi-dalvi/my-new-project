@@ -1,1 +1,1 @@
-authenticate logic
+//Authentication logic
